@@ -1,0 +1,5 @@
+module freetype {
+	header "freetype/freetype.h"
+	header "freetype/ftoutln.h"
+	textual header "freetype/fterrdef.h"
+}
